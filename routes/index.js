@@ -1,3 +1,4 @@
+
 import express, { Router } from 'express';
 import productRouter from "./product.js";
 import authRouter from "./auth.js";
